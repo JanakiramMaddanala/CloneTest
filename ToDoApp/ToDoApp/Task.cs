@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace ToDoApp
 {
-    class Program
+    public class Task
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("To Do App Started....");
-
-
-        }
     }
 }
