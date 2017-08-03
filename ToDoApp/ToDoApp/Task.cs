@@ -8,5 +8,6 @@ namespace ToDoApp
 {
     public class Task
     {
+        public int ID {get;set;}
     }
 }
