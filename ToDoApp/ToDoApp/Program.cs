@@ -12,6 +12,9 @@ namespace ToDoApp
         {
             Console.WriteLine("To Do App Started just now....");
             Console.WriteLine("Feature 1");
+
+
+            Console.ReadLine();
         }
     }
 }
