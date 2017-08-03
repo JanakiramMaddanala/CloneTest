@@ -9,9 +9,13 @@ namespace ToDoApp
     public class Task
     {
         public int ID { get; set; }
+
         public string Name { get; set; }
+
         public string Purpose { get; set; }
-        public DateTime StartDate {get;set;}
+
+        public DateTime StartDate { get; set; }
+
         public DateTime EndDate { get; set; }
 
         public bool IsReminderOn { get; set; }
