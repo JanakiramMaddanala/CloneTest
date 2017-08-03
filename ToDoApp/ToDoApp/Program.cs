@@ -12,7 +12,7 @@ namespace ToDoApp
         {
             Console.WriteLine("To Do App Started....");
 
-
+            Console.ReadLine();
         }
     }
 }
