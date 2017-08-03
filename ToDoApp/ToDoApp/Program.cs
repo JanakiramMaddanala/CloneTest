@@ -10,7 +10,7 @@ namespace ToDoApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("To Do App Started....");
+            Console.WriteLine("To Do App Started just now....");
         }
     }
 }
