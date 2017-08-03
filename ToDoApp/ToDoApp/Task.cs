@@ -9,6 +9,7 @@ namespace ToDoApp
     public class Task
     {
         public int ID {get;set;}
-        public int Name { get; set; }
+        public string Name { get; set; }
+        public string Purpose {get;set;}
     }
 }
