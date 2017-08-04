@@ -15,6 +15,8 @@ namespace ToDoApp
 
             Console.WriteLine("New Feature modified");
 
+            Console.WriteLine("New Feature added");
+
 
             Console.ReadLine();
         }
